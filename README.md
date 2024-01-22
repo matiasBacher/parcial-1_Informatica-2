@@ -1,4 +1,4 @@
-#Descripción
+# Descripción
  Este es el trabajo correspondiente al primer parcial de una materia llamada informatica 2.
  Con presente trabajo se evaluó la construcción de paginas web responsive.
 
